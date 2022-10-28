@@ -16,4 +16,22 @@
         },
         "image_url": "https://hotmart.com/media/2020/03/BLOG_web-design-1.png",
         "details": "We can divide the web designing subjects into 2 categories that are Sketching and Design Fundamentals. Sketching includes topics like  Information System Design, Introduction to Graphic Design, LAB HTML & VBScript and Web Designing using HTML codes. Whereas the Fundamentals include topics like User interface Graphics, Script Language, Internet Programming with ASP and Introduction to User Experience Design."
+    },{
+        "_id": "xVDYgvVqHwvqFUd",
+        "category_id": "02",
+        "rating": {
+            "number": 4.7,
+            "badge": "Top Rated"
+        },
+        "total_view": 10780,
+        "price": 6500,
+        "title": "Web Decvelopment",
+        "author": {
+            "name": "Labib Rahman",
+            "published_date": "2022-09-27 09:30:30",
+            "course_duration": "3 Month",
+            "img": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/305801553_193342343052741_7344614802537922088_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH98QZ5G3lVxfC3HZE1k0f_PUA1ORBcBr89QDU5EFwGv4Ypxqb5wAqimMfjJWCFCTz81vANcEwrbGplfKTPtigN&_nc_ohc=zFhKhpBht0EAX83Gi40&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfAbxjHOxnDV8ZpNycthRTpo1sWDPcv5FVZBgQK4npu-yA&oe=6360532C"
+        },
+        "image_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23164055/Web-Designing-Course-Syllabus.jpg",
+        "details": "Web development is everything involved in the creation of a website. Typically it refers to the coding and programming side of web site production as opposed to the web design side. we will lean you web development in this course."
     }]
