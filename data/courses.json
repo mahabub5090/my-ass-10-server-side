@@ -70,4 +70,22 @@
         },
         "image_url": "https://www.credosystemz.com/wp-content/uploads/2019/01/machine-learining-appliactions.png",
         "details": "Machine learning (ML) is defined as a discipline of artificial intelligence (AI) that provides machines the ability to automatically learn from data and past experiences to identify patterns and make predictions with minimal human intervention. This article explains the fundamentals of machine learning, its types, and the top five applications. It also shares the top 10 machine learning trends in 2022. We will Learn you Meatchine Learning In This course"
+    },{
+        "_id": "VX8hvNAiUt1SUZG",
+        "category_id": "05",
+        "rating": {
+            "number": 4.8,
+            "badge": "Top-Rated"
+        },
+        "total_view": 12832,
+        "price": 10000,
+        "title": "Artificial Intaligence",
+        "author": {
+            "name": "Md. Mahabubar Rahman",
+            "published_date": "2020-11-12 08:20:00",
+            "course_duration": "3 Month",
+            "img": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/305801553_193342343052741_7344614802537922088_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH98QZ5G3lVxfC3HZE1k0f_PUA1ORBcBr89QDU5EFwGv4Ypxqb5wAqimMfjJWCFCTz81vANcEwrbGplfKTPtigN&_nc_ohc=zFhKhpBht0EAX83Gi40&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfAbxjHOxnDV8ZpNycthRTpo1sWDPcv5FVZBgQK4npu-yA&oe=6360532C"
+        },
+        "image_url": "https://easycourses.in/filescab/courses/crs_55.jpg",
+        "details": "The Artificial Intelligence Course in Dhaka, developed in partnership with IBM, is a leading-edge certification for professionals wanting to advance in the domain. By completing this Artificial Intelligence Course in Dhaka, you will have gained work-ready expertise in the fundamentals including Data Science using Python, Natural Language Processing, Machine and Deep Learning, and more taught by leading experts via live online classes, and masterclasses from industry experts."
     }]
