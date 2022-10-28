@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Web degsin"
+  },
+  {
+    "id": "02",
+    "name": "Web Decvelopment"
+  },
+  {
+    "id": "03",
+    "name": "App Development"
+  },
+  {
+    "id": "04",
+    "name": "Matchine Learning"
+  },
+  {
+    "id": "05",
+    "name": "Artificial Intaligence"
+  },
+  {
+    "id": "06",
+    "name": "Complete MERN Course"
+  }
+]
