@@ -52,4 +52,22 @@
         },
         "image_url": "https://sc04.alicdn.com/kf/U6b733ba79b454a24a150429618e3d03c0.png",
         "details": "Android Mobile Application Development course is designed such that after successfully completed the course, the learner will be able to use the development tools in the Android development environment, use the major components of Android API to develop their own apps, describe the life cycles of Activities, Applications and Fragments, use the Java programming language to build Android apps, make UI-rich apps using all the major UI components, store and manipulate data using Content Providers, Shared Preferences and Notifications, do background processing with Services and AsyncTasks, utilize sensors to add orientation and location to their apps, send and receive SMS messages programmatically, package and prepare their apps for distribution on the Google Play Store."
+    },{
+        "_id": "BmisBKbm32HcNNF",
+        "category_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Best"
+        },
+        "total_view": 6083,
+        "price": 10000,
+        "title": "Matchine Learning",
+        "author": {
+            "name": "Md. MAhabubar Rahman",
+            "published_date": "2022-10-25 08:00:00",
+            "course_duration": "3 Month",
+            "img": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/305801553_193342343052741_7344614802537922088_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH98QZ5G3lVxfC3HZE1k0f_PUA1ORBcBr89QDU5EFwGv4Ypxqb5wAqimMfjJWCFCTz81vANcEwrbGplfKTPtigN&_nc_ohc=zFhKhpBht0EAX83Gi40&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfAbxjHOxnDV8ZpNycthRTpo1sWDPcv5FVZBgQK4npu-yA&oe=6360532C"
+        },
+        "image_url": "https://www.credosystemz.com/wp-content/uploads/2019/01/machine-learining-appliactions.png",
+        "details": "Machine learning (ML) is defined as a discipline of artificial intelligence (AI) that provides machines the ability to automatically learn from data and past experiences to identify patterns and make predictions with minimal human intervention. This article explains the fundamentals of machine learning, its types, and the top five applications. It also shares the top 10 machine learning trends in 2022. We will Learn you Meatchine Learning In This course"
     }]
