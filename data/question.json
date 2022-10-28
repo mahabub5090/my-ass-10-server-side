@@ -1,0 +1,22 @@
+[
+  {
+    "ide": "111",
+    "question": " what is cors?",
+    "answer": ""
+  },
+  {
+    "ide": "113",
+    "question": "Why are you using firebase? What other options do you have to implement authentication?",
+    "answer": ""
+  },
+  {
+    "ide": "112",
+    "question": "How does the private route work?",
+    "answer": ""
+  },
+  {
+    "ide": "114",
+    "question": " What is Node? How does Node work?",
+    "answer": "",
+  }
+]
